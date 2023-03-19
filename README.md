@@ -54,7 +54,11 @@ A web application that provides a platform for innovators and entrepreneurs to s
 
 
 ## SCREENSHOTS 
-
+![Screenshot 2023-03-19 153841](https://user-images.githubusercontent.com/124377027/226169352-a90269b2-ae32-4c1c-a044-bc8096bfe0b2.jpg)
+![Screenshot 2023-03-19 154036](https://user-images.githubusercontent.com/124377027/226169388-1fac8ded-8068-4c82-b76a-329ec5b916a9.jpg)
+![Screenshot 2023-03-19 154258](https://user-images.githubusercontent.com/124377027/226169430-72d862de-e8ea-4e37-9937-f9cf77d6ab22.jpg)
+![Screenshot 2023-03-19 154418](https://user-images.githubusercontent.com/124377027/226169444-c5df55ee-6013-48e9-94ca-1d52706acada.jpg)
+![Screenshot 2023-03-19 154500](https://user-images.githubusercontent.com/124377027/226169335-02286a95-a194-4f44-9eab-36b259371806.jpg)
 
 
 
