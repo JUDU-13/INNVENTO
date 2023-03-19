@@ -72,9 +72,3 @@ A web application that provides a platform for innovators and entrepreneurs to s
 [issues-url]: https://github.com/JUDU-13/LOOPERS-MEC/issues
 [license-shield]: https://img.shields.io/github/license/JUDU-13/LOOPERS-MEC.svg?style=for-the-badge
 [license-url]: https://github.com/JUDU-13/LOOPERS-MEC/blob/main/LICENCE
-
-
-
-
-
-
